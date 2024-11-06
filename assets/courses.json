@@ -1,0 +1,84 @@
+{
+    "courses": [
+      {
+        "nom": "Mario Kart Stadium",
+        "coupe": "Mushroom Cup"
+      },
+      {
+        "nom": "Water Park",
+        "coupe": "Mushroom Cup"
+      },
+      {
+        "nom": "Sweet Sweet Canyon",
+        "coupe": "Mushroom Cup"
+      },
+      {
+        "nom": "Mario Circuit",
+        "coupe": "Mushroom Cup"
+      },
+      {
+        "nom": "Toad Harbor",
+        "coupe": "Flower Cup"
+      },
+      {
+        "nom": "Twisted Mansion",
+        "coupe": "Flower Cup"
+      },
+      {
+        "nom": "Shy Guy Falls",
+        "coupe": "Flower Cup"
+      },
+      {
+        "nom": "Cloudtop Cruise",
+        "coupe": "Flower Cup"
+      },
+      {
+        "nom": "Bone-Dry Dunes",
+        "coupe": "Star Cup"
+      },
+      {
+        "nom": "Bowser Castle",
+        "coupe": "Star Cup"
+      },
+      {
+        "nom": "Rainbow Road",
+        "coupe": "Star Cup"
+      },
+      {
+        "nom": "Sunshine Airport",
+        "coupe": "Star Cup"
+      },
+      {
+        "nom": "Mount Wario",
+        "coupe": "Leaf Cup"
+      },
+      {
+        "nom": "Ice Ice Outpost",
+        "coupe": "Leaf Cup"
+      },
+      {
+        "nom": "Yoshi Valley",
+        "coupe": "Leaf Cup"
+      },
+      {
+        "nom": "Wario Stadium",
+        "coupe": "Leaf Cup"
+      },
+      {
+        "nom": "Daisy Hills",
+        "coupe": "Shell Cup"
+      },
+      {
+        "nom": "Cheese Land",
+        "coupe": "Shell Cup"
+      },
+      {
+        "nom": "Coconut Mall",
+        "coupe": "Shell Cup"
+      },
+      {
+        "nom": "Mario Circuit (N64)",
+        "coupe": "Shell Cup"
+      }
+    ]
+  }
